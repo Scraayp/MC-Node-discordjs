@@ -1,0 +1,15 @@
+{
+  "name": "mc-node-discordjs",
+  "version": "1.0.0",
+  "description": "A simple discord bot made in javascript for the hosting mc-node",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michal @ MC-Node",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
